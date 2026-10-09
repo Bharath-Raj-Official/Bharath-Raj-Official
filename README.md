@@ -11,8 +11,8 @@ My projects explore custom gaze mapping around pretrained landmarks, browser phy
 | [Data Explorer](https://github.com/Bharath-Raj-Official/data-explorer) | Eight historical datasets, SVG charts and accessible tables |
 | [Poetry Assistant](https://github.com/Bharath-Raj-Official/poetry-assistant) | Dictionary pronunciation, rhyme groups and syllable filtering |
 | [Terra](https://github.com/Bharath-Raj-Official/terra) | Game state, world resets and touch controls |
-| [Portfolio](https://github.com/Bharath-Raj-Official/portfolio) | Interfaces, engineering decisions and project boundaries |
+| [Future Me website](https://github.com/Bharath-Raj-Official/portfolio) | Original parallax website and fictional future portfolio |
 
 **Technologies demonstrated:** JavaScript, HTML/CSS, p5.js, Matter.js, SVG and computer vision integration.
 
-Event Booking's refresh is pending a sanitized source handoff. [Explore the live portfolio](https://bharath-raj-official.github.io/portfolio/).
+Event Booking's refresh is pending a sanitized source handoff. [Explore the original Future Me website](https://bharath-raj-official.github.io/portfolio/).
